@@ -11,6 +11,7 @@ Up-n-Atom is an advanced FiveM restaurant script offering an immersive dining ex
 - 👥 Job Role-Based Access
 - 🕒 Realistic Progress Bars
 - 🎬 Animated Work Actions
+- Video Out Soon
 
 ## Technical Details 🔧
 ### Dependencies
