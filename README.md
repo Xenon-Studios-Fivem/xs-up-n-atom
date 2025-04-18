@@ -5,13 +5,16 @@
 ## Description 📝
 Up-n-Atom is an advanced FiveM restaurant script offering an immersive dining experience with multiple interaction stations.
 
+Locations is setup on (Gabz Up'n Atom)
+
 ## Features ✨
 - 🍔 Dynamic Food Stations (Burgers, Drinks, Fries)
 - 🧼 Hygienic Hand Washing Station
 - 👥 Job Role-Based Access
 - 🕒 Realistic Progress Bars
 - 🎬 Animated Work Actions
-- Video Out Soon
+
+-Showcase Video: https://www.youtube.com/watch?v=_mbEe5VZ1qw
 
 ## Technical Details 🔧
 ### Dependencies
